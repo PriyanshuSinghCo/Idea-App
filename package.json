@@ -1,0 +1,15 @@
+{
+  "name": "ideaapp",
+  "version": "1.0.0",
+  "description": "This is an ideaApp for users.",
+  "license": "ISC",
+  "author": "Priyanshu Singh",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
